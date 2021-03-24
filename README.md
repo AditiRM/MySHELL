@@ -51,7 +51,7 @@
 - `run_command.c`
     - For running a command using fork and exec
 
-### Other Implementations
+## Other Implementations
 
 ###### Commands/functions which don't have a separate file.
 
